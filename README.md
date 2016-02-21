@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository
+About me.
+Gab from nyc. Likes tea and dogs and DNA.
